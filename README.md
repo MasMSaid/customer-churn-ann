@@ -60,7 +60,6 @@ Customer churn is a major concern in the banking sector, as retaining existing c
 
 The trained model is used to predict churn probability for a new customer, demonstrating how probabilistic outputs can support business decisions using adjustable thresholds.
 
----
 
 ## 🛠️ Tools & Libraries
 
